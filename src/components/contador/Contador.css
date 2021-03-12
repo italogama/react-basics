@@ -1,0 +1,14 @@
+.Contador input {
+    font-size: 1.4rem;
+    width: 60px;
+}
+
+.Divider{
+    width: 5px;
+    height: auto;
+    display: flexbox;
+}
+
+.buttonMargin {
+    margin: 0px 10px;
+}
